@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\Alexa\\OneDrive\\Área de Trabalho\\Csharp\\Bootcamp\\GFT\\estudos\\Treinamento\\Treinamento\\Treinamento.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\Alexa\\OneDrive\\Área de Trabalho\\Csharp\\Bootcamp\\GFT\\estudos\\Treinamento\\Treinamento\\Treinamento.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\Alexa\\OneDrive\\Área de Trabalho\\Csharp\\Bootcamp\\GFT\\estudos\\Treinamento\\Treinamento\\Treinamento.csproj",
+        "projectName": "Treinamento",
+        "projectPath": "c:\\Users\\Alexa\\OneDrive\\Área de Trabalho\\Csharp\\Bootcamp\\GFT\\estudos\\Treinamento\\Treinamento\\Treinamento.csproj",
+        "packagesPath": "C:\\Users\\Alexa\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\Alexa\\OneDrive\\Área de Trabalho\\Csharp\\Bootcamp\\GFT\\estudos\\Treinamento\\Treinamento\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Alexa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp1.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp1.1": {
+            "targetAlias": "netcoreapp1.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp1.1": {
+          "targetAlias": "netcoreapp1.1",
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[1.1.2, )",
+              "autoReferenced": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
