@@ -1,0 +1,15 @@
+C:\Users\Alexa\OneDrive\Área de Trabalho\Csharp\Bootcamp\GFT\projetorpg\bin\Debug\net6.0\projetorpg.exe
+C:\Users\Alexa\OneDrive\Área de Trabalho\Csharp\Bootcamp\GFT\projetorpg\bin\Debug\net6.0\projetorpg.deps.json
+C:\Users\Alexa\OneDrive\Área de Trabalho\Csharp\Bootcamp\GFT\projetorpg\bin\Debug\net6.0\projetorpg.runtimeconfig.json
+C:\Users\Alexa\OneDrive\Área de Trabalho\Csharp\Bootcamp\GFT\projetorpg\bin\Debug\net6.0\projetorpg.dll
+C:\Users\Alexa\OneDrive\Área de Trabalho\Csharp\Bootcamp\GFT\projetorpg\bin\Debug\net6.0\ref\projetorpg.dll
+C:\Users\Alexa\OneDrive\Área de Trabalho\Csharp\Bootcamp\GFT\projetorpg\bin\Debug\net6.0\projetorpg.pdb
+C:\Users\Alexa\OneDrive\Área de Trabalho\Csharp\Bootcamp\GFT\projetorpg\obj\Debug\net6.0\projetorpg.csproj.AssemblyReference.cache
+C:\Users\Alexa\OneDrive\Área de Trabalho\Csharp\Bootcamp\GFT\projetorpg\obj\Debug\net6.0\projetorpg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexa\OneDrive\Área de Trabalho\Csharp\Bootcamp\GFT\projetorpg\obj\Debug\net6.0\projetorpg.AssemblyInfoInputs.cache
+C:\Users\Alexa\OneDrive\Área de Trabalho\Csharp\Bootcamp\GFT\projetorpg\obj\Debug\net6.0\projetorpg.AssemblyInfo.cs
+C:\Users\Alexa\OneDrive\Área de Trabalho\Csharp\Bootcamp\GFT\projetorpg\obj\Debug\net6.0\projetorpg.csproj.CoreCompileInputs.cache
+C:\Users\Alexa\OneDrive\Área de Trabalho\Csharp\Bootcamp\GFT\projetorpg\obj\Debug\net6.0\projetorpg.dll
+C:\Users\Alexa\OneDrive\Área de Trabalho\Csharp\Bootcamp\GFT\projetorpg\obj\Debug\net6.0\ref\projetorpg.dll
+C:\Users\Alexa\OneDrive\Área de Trabalho\Csharp\Bootcamp\GFT\projetorpg\obj\Debug\net6.0\projetorpg.pdb
+C:\Users\Alexa\OneDrive\Área de Trabalho\Csharp\Bootcamp\GFT\projetorpg\obj\Debug\net6.0\projetorpg.genruntimeconfig.cache
